@@ -33,7 +33,7 @@ class Mahasiswa{
         cout << "IPK: " << IPK << endl;
     }
 
-    // Dengan Parameret dan tanpa return
+    // Dengan Parameter dan tanpa return
     void ubahNama(string namaBaru){
         Mahasiswa::Nama = namaBaru;
     }
